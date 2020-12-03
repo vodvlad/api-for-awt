@@ -4,7 +4,7 @@
     "albumId": 1,
     "id": 1,
     "title": "1 frog",
-    "text": "hello woorld!!!",
+    "text": "žaba z klobúkom na hlave",
     "url": "https://cdn1.ozone.ru/s3/multimedia-l/c650/6010823097.jpg",
     "thumbnailUrl": "https://via.placeholder.com/150/92c952"
   },
@@ -12,7 +12,7 @@
     "albumId": 1,
     "id": 2,
     "title": "2 frog",
-    "text": "hello woorld!!!",
+    "text": "žaba prisla z McD",
     "url": "https://image.freepik.com/free-photo/funny-green-frog_183364-155.jpg",
     "thumbnailUrl": "https://via.placeholder.com/150/771796"
   },
@@ -20,7 +20,7 @@
     "albumId": 1,
     "id": 3,
     "title": "3 frog",
-    "text": "hello woorld!!!",
+    "text": "žaba prisla z fitnesu",
     "url": "https://image.freepik.com/free-photo/funny-green-frog_183364-153.jpg",
     "thumbnailUrl": "https://via.placeholder.com/150/771796"
   },
@@ -28,8 +28,24 @@
     "albumId": 1,
     "id": 4,
     "title": "4 frog",
-    "text": "hello woorld!!!",
-    "url": "https://via.placeholder.com/600/24f355",
+    "text": "žaba v WC",
+    "url": "https://www.art-pol.sk/upl/app/products/40e24ae17b6a1adef0dea9713be3caa8-big.jpg",
+    "thumbnailUrl": "https://via.placeholder.com/150/24f355"
+  },
+  {
+    "albumId": 1,
+    "id": 5,
+    "title": "5 frog",
+    "text": "žaba z gitarou",
+    "url": "https://static6.depositphotos.com/1036149/608/i/600/depositphotos_6084552-stock-photo-frog-with-a-guitar.jpg",
+    "thumbnailUrl": "https://via.placeholder.com/150/24f355"
+  },
+  {
+    "albumId": 1,
+    "id": 6,
+    "title": "6 frog",
+    "text": "žaba v WC este krat",
+    "url": "https://www.art-pol.sk/upl/app/products/40e24ae17b6a1adef0dea9713be3caa8-big.jpg",
     "thumbnailUrl": "https://via.placeholder.com/150/24f355"
   }
 ],
